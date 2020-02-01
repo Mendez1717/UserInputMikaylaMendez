@@ -6,10 +6,10 @@ namespace UserInputMikaylaMendez
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi, this is Mikayla Mendez");
+            Console.WriteLine("Hi, this is Mikayla Mendez, what is your name?");
 
             string username;
-            Console.Write("Please enter your name");
+            Console.Write("You Typed: ");
             username = Console.ReadLine();
 
             //Ask user to enter value 
